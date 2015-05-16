@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.test.SwitchActivityMainActivity" >
+
+    <item
+        android:id="@+id/action_settings1"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/big"/>
+    <item
+        android:id="@+id/action_settings2"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/small"/>
+
+</menu>

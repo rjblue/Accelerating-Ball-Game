@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">加速球</string>
+    <string name="big">放大</string>
+    <string name="small">缩小</string>
+    <string name="initSpeedHint">初始速度</string>
+    <string name="slowRateHint">减速速度</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="initSpeed">20</string>
+    <string name="slowRate">10</string>
+    <string name="statment">游戏说明:预设小球的初速度和阻力，初速度代表每秒前进多少像素，阻力代表每秒减速多少像素。划过加速区的小球会加速哦！每次滑动碰撞次数最多即可获胜！by jianjian</string>
+
+</resources>
